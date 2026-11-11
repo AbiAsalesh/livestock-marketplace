@@ -128,6 +128,7 @@ Follow these instructions to set up the project locally.
 Visit `http://127.0.0.1:8000/` in your browser.
 
 ---
+<img width="1954" height="2268" alt="image" src="https://github.com/user-attachments/assets/519f6390-3a09-4ee4-ab7b-3071c2349016" />
 
 ## 📖 Usage Guide
 
